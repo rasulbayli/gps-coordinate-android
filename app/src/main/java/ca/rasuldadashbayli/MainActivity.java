@@ -1,4 +1,4 @@
-package com.example.gpscoordinate;
+package ca.rasuldadashbayli;
 
 import android.Manifest;
 import android.app.Activity;
@@ -137,6 +137,7 @@ public class MainActivity extends Activity {
     private LinearLayout.LayoutParams params(int w,int h) { return new LinearLayout.LayoutParams(w,h); }
     private int dp(int n) { return (int)(n*getResources().getDisplayMetrics().density+0.5f); }
 }
+
 
 
 
