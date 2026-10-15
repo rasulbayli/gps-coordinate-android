@@ -2,7 +2,7 @@
     <uses-feature android:name="android.hardware.location.gps" android:required="true" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <application android:theme="@style/AppTheme" android:label="GPS Coordinate" android:usesCleartextTraffic="false">
-        <activity android:name=".MainActivity" android:exported="true">
+        <activity android:name="ca.rasuldadashbayli.MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -10,3 +10,4 @@
         </activity>
     </application>
 </manifest>
+
