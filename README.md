@@ -21,3 +21,5 @@ Open this folder in Android Studio and run the `app` configuration on a GPS-enab
 ## Screenshot
 
 See [`outputs/gps-coordinate-demo.png`](outputs/gps-coordinate-demo.png) for the running app.
+
+Android package name: ca.rasuldadashbayli.
